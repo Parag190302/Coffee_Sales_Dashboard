@@ -1,2 +1,2 @@
-# Coffee_Sales_Dashboard
+# Excel_Dashboards
 I have created my first dashboard in Excel.
